@@ -1,0 +1,89 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.pen2{
+    gap:9rem;
+    display:flex;
+    text-decoration: none;
+    
+    justify-content: center;
+    background-color: rgb(61, 53, 53);
+    color: white;
+    padding: 1rem;
+}
+a{
+    text-decoration: none;
+}
+.pic1{
+     height: 100rem; 
+    width: 100%
+    
+    
+}
+
+.bag{
+    margin-left: 49rem;
+    margin-top: 6rem;
+    padding: 20px;
+    color:white;
+    background-color: black;
+    font-size: larger;
+
+}
+.text2{
+    text-align: center;
+    margin-top: 8rem;
+    font-size: larger;
+    font-weight: 200;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ .text3{
+    margin-top: 2rem;
+    text-align: center;
+    font-size: larger;
+    font-weight: 200;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+  .text4{
+    margin-top: 2rem;
+    text-align: center;
+    font-size: larger;
+    font-weight: 200;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-left: 2px  solid red;
+ }   
+.pen5{
+    margin-top: 1rem;
+}
+.pic2{
+    margin-left: 49rem;
+    
+    height: auto;
+    width: 40rem;
+    
+    margin-top: 2rem;
+}
+.text5{
+    text-align: center;
+    margin-top: 1rem;
+}
+.btm1{
+    margin-top: 1rem;
+    margin-left: 49rem;
+    padding: 1rem;
+    background-color: black;
+    color: white;
+}
+.btm6{
+    
+    margin-left: 49rem;
+    margin-top: 2rem;
+    padding: 1rem;
+}
+    
+
+
+   
+
+
